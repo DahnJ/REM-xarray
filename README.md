@@ -8,7 +8,7 @@ Based on [*Creating REMs in QGIS with the IDW Method*](https://dancoecarto.com/c
 # Try it out
 
 <h3 align="center">
-  💧 <a href="TODO">Binder</a>  💧 <a href="TODO">Colab</a> 💧 <a href="TODO">nbviewer</a> 💧
+  💧 <a href="TODO">Binder</a> 💧 <a href="https://colab.research.google.com/github/DahnJ/REM-xarray/blob/master/rem-in-xarray-tutorial.ipynb">Colab</a> 💧 <a href="https://nbviewer.org/github/DahnJ/REM-xarray/blob/master/rem-in-xarray-tutorial.ipynb">nbviewer</a> 💧
 </h3>
 
 # Run locally
@@ -30,6 +30,6 @@ jupyter notebook
 # Examples
 
 
-![](https://i.imgur.com/2XcHIZW.jpg)
 ![](https://i.imgur.com/MFagpMt.jpg)
 ![](https://i.imgur.com/jRXcHVi.jpg)
+![](https://i.imgur.com/2XcHIZW.jpg)
