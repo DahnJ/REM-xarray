@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - datashader=0.13
+  - datashader
   - geopandas
   - matplotlib
   - notebook=6.4
@@ -11,7 +11,7 @@ dependencies:
   - osmnx=1.1
   - pandas
   - rioxarray
-  - scipy=1.8
+  - scipy
   - shapely
   - xarray-spatial=0.3
   - xarray=0.21

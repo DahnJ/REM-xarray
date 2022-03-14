@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 
-datashader~=0.13
+datashader
 geopandas~=0.10
 matplotlib
 notebook~=6.4
@@ -9,7 +9,7 @@ numpy
 osmnx~=1.1
 pandas
 rioxarray
-scipy~=1.8
+scipy
 shapely
 xarray-spatial~=0.3
 xarray~=0.21
