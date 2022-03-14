@@ -1,0 +1,1 @@
+Data from [National Land Survey of Finland](https://www.maanmittauslaitos.fi/en), distributed under [National Land Survey open data Attribution CC 4.0 licence](https://www.maanmittauslaitos.fi/en/opendata-licence-cc40).

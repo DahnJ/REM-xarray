@@ -1,0 +1,17 @@
+name: rem-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - datashader=0.13
+  - geopandas=0.10
+  - matplotlib=3.5
+  - notebook=6.4
+  - numpy=1.21
+  - osmnx=1.1
+  - pandas=1.4
+  - rioxarray=0.10
+  - scipy=1.8
+  - shapely=1.8
+  - xarray-spatial=0.3
+  - xarray=0.21
