@@ -31,7 +31,7 @@ jupyter notebook
 ### Downloading the sample data
 If you have [git-lfs](https://git-lfs.github.com/) installed, the sample data gets cloned with this repository automatically.
 
-Alternatively, you can follow the video in the tutorial on downloading the original raster data.
+Alternatively, you can follow [the video](https://nbviewer.org/github/DahnJ/REM-xarray/blob/master/rem-in-xarray-tutorial.ipynb#VIDEO:-How-to-download-data-from-NLS) on downloading the original raster data.
 
 On Debian, Git LFS can be installed by
 ```bash
