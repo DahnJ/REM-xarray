@@ -10,7 +10,7 @@ dependencies:
   - numpy
   - osmnx=1.1
   - pandas
-  - rioxarray=0.10
+  - rioxarray
   - scipy=1.8
   - shapely
   - xarray-spatial=0.3
