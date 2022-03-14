@@ -12,6 +12,7 @@ Based on [*Creating REMs in QGIS with the IDW Method*](https://dancoecarto.com/c
 </h3>
 
 # Run locally
+
 ### Conda
 ```bash
 conda env create -f environment.yaml
@@ -27,8 +28,19 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-# Examples
+### Downloading the sample data
+If you have [git-lfs](https://git-lfs.github.com/) installed, the sample data gets cloned with this repository automatically.
 
+Alternatively, you can follow the tutorial on downloading the original raster data.
+
+On Debian, Git LFS can be installed by
+```bash
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+apt-get install git-lfs
+git lfs install
+```
+
+# Examples
 
 ![](https://i.imgur.com/MFagpMt.jpg)
 ![](https://i.imgur.com/jRXcHVi.jpg)
