@@ -8,7 +8,7 @@ Based on [*Creating REMs in QGIS with the IDW Method*](https://dancoecarto.com/c
 # Try it out
 
 <h3 align="center">
-  💧 <a href="TODO">Binder</a> 💧 <a href="https://colab.research.google.com/github/DahnJ/REM-xarray/blob/master/rem-in-xarray-tutorial.ipynb">Colab</a> 💧 <a href="https://nbviewer.org/github/DahnJ/REM-xarray/blob/master/rem-in-xarray-tutorial.ipynb">nbviewer</a> 💧
+  💧 <a href="https://mybinder.org/v2/gh/DahnJ/REM-xarray/HEAD?filepath=rem-in-xarray-tutorial.ipynb">Binder</a> 💧 <a href="https://colab.research.google.com/github/DahnJ/REM-xarray/blob/master/rem-in-xarray-tutorial.ipynb">Colab</a> 💧 <a href="https://nbviewer.org/github/DahnJ/REM-xarray/blob/master/rem-in-xarray-tutorial.ipynb">nbviewer</a> 💧
 </h3>
 
 # Run locally
