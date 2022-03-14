@@ -6,12 +6,12 @@ dependencies:
   - datashader
   - geopandas
   - matplotlib
-  - notebook=6.4
+  - notebook
   - numpy
-  - osmnx=1.1
+  - osmnx
   - pandas
   - rioxarray
   - scipy
   - shapely
-  - xarray-spatial=0.3
-  - xarray=0.21
+  - xarray-spatial
+  - xarray
