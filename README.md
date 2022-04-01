@@ -45,3 +45,8 @@ git lfs install
 ![](https://i.imgur.com/MFagpMt.jpg)
 ![](https://i.imgur.com/jRXcHVi.jpg)
 ![](https://i.imgur.com/2XcHIZW.jpg)
+
+
+# REMs in other languages/tools
+- [QGIS](https://dancoecarto.com/creating-rems-in-qgis-the-idw-method) by [Dan Coe](https://twitter.com/geo_coe)
+- [Google Earth Engine](https://twitter.com/KelMarkert/status/1509714680364748801) by [Kel Markert](https://twitter.com/KelMarkert)
