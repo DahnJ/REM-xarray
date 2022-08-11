@@ -50,3 +50,4 @@ git lfs install
 # REMs in other languages/tools
 - [QGIS](https://dancoecarto.com/creating-rems-in-qgis-the-idw-method) by [Dan Coe](https://twitter.com/geo_coe)
 - [Google Earth Engine](https://twitter.com/KelMarkert/status/1509714680364748801) by [Kel Markert](https://twitter.com/KelMarkert)
+- [RiverREM](https://github.com/klarrieu/RiverREM), a Python package for producing REMs automatically
